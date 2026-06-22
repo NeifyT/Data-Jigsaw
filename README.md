@@ -8,7 +8,7 @@ A scalable jigsaw puzzle app capable of providing 1,000, 5,000, or even 10,000+ 
 
 Most commercial jigsaw puzzle apps set hard limits of less than 1,000 pieces. There may be many reasons for such limitations, but the biggest two problems come down to data structure and user interface. Individual critiques of desktop apps will be added below as I compare/contrast marketed offerings.
 
-- [ ] Microsoft Jigsaw
+- [x] [Microsoft Jigsaw](/documentation/MSJigsaw.md)
  
 ## The Solution
 
