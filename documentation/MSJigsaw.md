@@ -9,12 +9,12 @@ Past digital jigsaw puzzle games never really held my attention, so I thought I 
 ## The Surprise
 
 I was immediately surprised that of each of the pictures provided for free there were six dedicated sizes to chose from labeled thus:
-Easy (24 pieces)
-Medium (54 pieces)
-Hard (94 pieces)
-Expert (216 pieces)
-Master (384 pieces)
-Grandmaster (600 pieces)
+- Easy (24 pieces)
+- Medium (54 pieces)
+- Hard (94 pieces)
+- Expert (216 pieces)
+- Master (384 pieces)
+- Grandmaster (600 pieces)
 
 While I have never considered myself a Grandmaster jigsaw puzzle builder, I have always known I have a special aptitude for them. A standard 500 piece real-world jigsaw puzzle for me is an afternoon or three- to four-hour project. The largest I have completed was 6,000 and that took me 11 years to complete. Still 1,000 and 2,000 are more my usual puzzle sizes; when I had desk space to build them.
 
