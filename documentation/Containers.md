@@ -6,13 +6,13 @@ The biggest problem with them was that pieces couldn't be laid out. For puzzles,
 
 ## Data Structure
 
-The container data structure is going to mirror the working desktop canvas. A container may be opened either overtop of the desktop or in another window (especially with multi-monitor support). See [Desktop Canvas](/Canvas.md) for more details regarding rendering.
+The container data structure is going to mirror the working desktop canvas. A container may be opened either overtop of the desktop or in another window (especially with multi-monitor support). See [Desktop Canvas](/documentation/Canvas.md) for more details regarding rendering.
 
 Containers can be designated as storage bins only, basically just a random pile of pieces to be worked on later. Or, they can be organized with grid patterns. Pieces can be connected to each other inside of containers.
 
 ## Number of Containers
 
-While [Microsoft Jigsaw](/MSJigsaw.md) only provides three containers, it is anticipated that larger puzzle builds may need dozens to efficiently sort smaller amounts to work with.
+While [Microsoft Jigsaw](/documentation/MSJigsaw.md) only provides three containers, it is anticipated that larger puzzle builds may need dozens to efficiently sort smaller amounts to work with.
 
 ## Key Bindings
 
@@ -45,7 +45,7 @@ If one were to take a 10,000-piece puzzle and sort by section specifying 100 sec
 
 An example of sorting by shape may be as simple as finding all edge pieces. Edge pieces sort to container 1, all others into container 2. One click and edge pieces for a 10,000-piece puzzle all in one stack. They can be dropped back on the desktop canvas and assembled.
 
-Additional shape sorts would be based on the shapes described in more detail in the [Standard Shape Orientation](/Shapes.md) document.
+Additional shape sorts would be based on the shapes described in more detail in the [Standard Shape Orientation](/documentation/Shapes.md) document.
 
 ### Sort by Color
 

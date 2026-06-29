@@ -39,11 +39,11 @@ The rotation will be a value from 0 to 359 representing the visual rotation on t
 
 ### *shape*: integer
 
-The shape attribute is a completely arbitrary designation based on my own real-life experience as a puzzler. This must be explained in more detail in a separate doc. See [Standard Shape Orientation](/Shapes.md).
+The shape attribute is a completely arbitrary designation based on my own real-life experience as a puzzler. This must be explained in more detail in a separate doc. See [Standard Shape Orientation](/documentation/Shapes.md).
 
 ### *rotation_offset*: integer
 
-The rotation offset will be used as a mathematical aid in handling [Standard Shape Orientation](/Shapes.md).
+The rotation offset will be used as a mathematical aid in handling [Standard Shape Orientation](/documentation/Shapes.md).
 
 ### *color_profile*: TBD
 
@@ -57,11 +57,11 @@ The layer (or Z-index) attribute will be for user override of default behavior. 
 
 ### *container*: integer
 
-This will relate to the ID of the container the piece is currently in: 0 for game desktop canvas, 1-100 specified containers based on key mapping. For more information see [Containers](/Containers.md).
+This will relate to the ID of the container the piece is currently in: 0 for game desktop canvas, 1-100 specified containers based on key mapping. For more information see [Containers](/documentation/Containers.md).
 
 ### *connection*: integer
 
-This will relate to the key of the connection grouping. Initial planning of design is to store connected groups as lists of piece IDs to a numerically keyed dictionary. See [Connections](/Connections.md).
+This will relate to the key of the connection grouping. Initial planning of design is to store connected groups as lists of piece IDs to a numerically keyed dictionary. See [Connections](/documentation/Connections.md).
 
 ### *is_selected*: boolean
 
@@ -69,7 +69,7 @@ Flags if a piece is part of a selected set.
 
 ### *is_focused*: boolean
 
-Flags if the current piece is the focus of the mouse (based on the upper-most piece with visible pixel located at the current mouse position). The manner of finding this has yet to be decided, but the intent is to ignore transparent pixels within the width and height of a piece.
+Flags if the current piece is the focus of the mouse (based on the uppermost piece with visible pixel located at the current mouse position). The manner of finding this has yet to be decided, but the intent is to ignore transparent pixels within the width and height of a piece.
 
 ## Methods
 
