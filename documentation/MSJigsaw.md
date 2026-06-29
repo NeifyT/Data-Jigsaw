@@ -16,9 +16,9 @@ I was immediately surprised that of each of the pictures provided for free there
 - Master (384 pieces)
 - Grandmaster (600 pieces)
 
-While I have never considered myself a Grandmaster jigsaw puzzle builder, I have always known I have a special aptitude for them. A standard 500 piece real-world jigsaw puzzle for me is an afternoon or three- to four-hour project. The largest I have completed was 6,000 and that took me 11 years to complete. Still 1,000 and 2,000 are more my usual puzzle sizes; when I had desk space to build them.
+While I have never considered myself a Grandmaster jigsaw puzzle builder, I have always known I have a special aptitude for them. A standard 500-piece real-world jigsaw puzzle for me is an afternoon or three- to four-hour project. The largest I have completed was 6,000 and that took me 11 years to complete. Still 1,000 and 2,000 are more my usual puzzle sizes; when I had desk space to build them.
 
-Without dedicated desk space; I have wanted a digital facsimile to enjoy. Microsoft Jigsaw has been enjoyable, but 600 pieces is a valid user interface limit. A 600 piece puzzle in MS Jigsaw still takes me only about three to four hours to complete, most of that time is just organizing pieces instead of actively building.
+Without dedicated desk space; I have wanted a digital facsimile to enjoy. Microsoft Jigsaw has been enjoyable, but 600 pieces is a valid user interface limit. A 600-piece puzzle in MS Jigsaw still takes me only about three to four hours to complete, most of that time is just organizing pieces instead of actively building.
 
 ## The Good
 
@@ -58,9 +58,9 @@ The entire box's contents can be emptied right onto the desktop, but they are em
 
 ## The Ugly
 
-Constant drag-and-drop for manipulating each piece gets tedious and causes muscle strain. Organizing pieces in any fashion requires repetitive drag-and-drop. For 600 piece puzzles my best strategy is to clear a space in the center, browse for all the edge pieces moving them to the center space. Then I build the edge, and position the rest of the pieces in a grid-like layout around the edge, moving them into the center as I sort colors and build small sections.
+Constant drag-and-drop for manipulating each piece gets tedious and causes muscle strain. Organizing pieces in any fashion requires repetitive drag-and-drop. For 600-piece puzzles my best strategy is to clear a space in the center, browse for all the edge pieces moving them to the center space. Then I build the edge, and position the rest of the pieces in a grid-like layout around the edge, moving them into the center as I sort colors and build small sections.
 
-While this strategy works, there is no way I would want to do that on a 1,000 piece puzzle or greater. It is also the most time consuming aspect.
+While this strategy works, there is no way I would want to do that on a 1,000-piece puzzle or greater. It is also the most time-consuming aspect.
 
 ## Improvement Ideas
 

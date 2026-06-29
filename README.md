@@ -36,6 +36,21 @@ By separating data structure from user interface all piece processing can happen
 - Individual component Proof of Concepts
 - Putting it all together
 
+### Data Structuring
+
+When I start visualizing a new project I always like to break it down into some form of data structure. It might be a single spreadsheet or table; a relational database; or an object model. Data may take the form of numerical, strings, graphical, or even bitwise when that seems valid.
+
+Knowing I wanted to scale piece counts in large numbers I initially thought of using Pandas dataframes for its rapid math and representing the data mostly numerically. Therefor, my initial ideas focused on the relationship between the pieces and the screen, but a relational database did not fit too well. I determined that the pieces themselves are fundamentally objects of the real world and should naturally follow object-oriented programming (OOP) principles.
+
+Still, there are some relationships that must be observed, so I will refine the data structure by categories detailed in separate docs:
+
+- [x] [Pieces](/documentation/Pieces.md)
+  - [x] [Standard Shape Orientation](/documentation/Shapes.md)
+- [ ] ⏳ [Connections](/documentation/Connections.md)
+- [x] [Containers](/documentation/Containers.md)
+- [ ] [Desktop Canvas](/documentation/Canvas.md)
+- [ ] [Game Mechanics](/documentation/Mechanics.md)
+
 ## Disclaimers
 
 As a fun project for my own entertainment progress on this project may come in small spurts of activity. Rome wasn't built in a day by hobbyists, and this project won't be either.
